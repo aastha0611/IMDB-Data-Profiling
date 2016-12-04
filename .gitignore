@@ -1,0 +1,5 @@
+notupload/*
+bin/*
+build/*
+/bin/
+/build/
